@@ -8,10 +8,10 @@
 
 ## Tutorials
 
-* [Ein-Ausgabe](%base_url%?ios)
-* [Anzeigen](%base_url%?displays)
-* [Sensoren](%base_url%?sensors)
-* [Aktoren](%base_url%?actors)
-* [komplette Roboter](%base_url%?robots)
+* [Ein-Ausgabe](%base_url%?/ios/index)
+* [Anzeigen](%base_url%?/displays/index)
+* [Sensoren](%base_url%?/sensors/index)
+* [Aktoren](%base_url%?/actors/index)
+* [komplette Roboter](%base_url%?/robots/index)
 
 
