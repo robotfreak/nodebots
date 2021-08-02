@@ -1,3 +1,8 @@
+---
+Title: Roboter
+Template: index
+---
+
 ## komplette Roboter Projekte
 
 * [Nyan Cat Roboter](exercises/nyan-cat) 

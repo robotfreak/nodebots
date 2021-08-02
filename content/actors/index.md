@@ -1,3 +1,8 @@
+---
+Title: Aktoren
+Template: index
+---
+
 # Roboter Antriebe
 
 Damit sich ein Roboter fortbewegen kann, benötigt er einen Antrieb, einen Motor. Ein Roboter mit Armen oder einem Kopf, sollte diesen auch bewegen können. Dafür gibt es Servos.

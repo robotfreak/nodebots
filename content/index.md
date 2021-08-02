@@ -1,3 +1,8 @@
+---
+Title: Index
+Template: index
+---
+
 # Index
 
 ## Einführung
@@ -8,10 +13,10 @@
 
 ## Tutorials
 
-* [Ein-Ausgabe](%base_url%?/ios/index)
-* [Anzeigen](%base_url%?/displays/index)
-* [Sensoren](%base_url%?/sensors/index)
-* [Aktoren](%base_url%?/actors/index)
-* [komplette Roboter](%base_url%?/robots/index)
+* [Ein-Ausgabe](%base_url%?ios/index)
+* [Anzeigen](%base_url%?displays/index)
+* [Sensoren](%base_url%?sensors/index)
+* [Aktoren](%base_url%?actors/index)
+* [komplette Roboter](%base_url%?robots/index)
 
 

@@ -1,3 +1,8 @@
+---
+Title: IOs
+Template: index
+---
+
 # Ein-Ausgabe Tutorial
 
 Die Basics der NodeBots Programmierung werden hier behandelt.
